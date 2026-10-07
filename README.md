@@ -1,3 +1,16 @@
+</div>
+
+> [!IMPORTANT]
+> **This repository is an unmaintained historical mirror.**
+> The official and actively maintained openGym repository is
+> **[DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)**.
+> Please report issues and open pull requests there.
+>
+> For background on why this mirror was created, including statements from the original
+> developer, see [issue #2](https://github.com/arvids-unavailable/openGym/issues/2).
+
+<br>
+
 <div align="center">
 
 <img src="assets/banner.png" alt="openGym" width="720">

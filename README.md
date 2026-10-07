@@ -9,7 +9,7 @@
 > For background on why this mirror was created, including statements from the original
 > developer, see [issue #2](https://github.com/arvids-unavailable/openGym/issues/2).
 
-<br>
+---
 
 <div align="center">
 
